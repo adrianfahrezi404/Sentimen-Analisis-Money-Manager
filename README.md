@@ -144,11 +144,11 @@ Model SVM kernel linear dilatih dengan split data **80% training / 20% testing**
 
 **Word Cloud Ulasan Positif**
 
-![Positive Word Cloud](assets/word_cloud_positive.jpg)
+![Positive Word Cloud](assets/word_cloud_positive.png)
 
 **Word Cloud Ulasan Negatif**
 
-![Negative Word Cloud](assets/word_cloud_negative.jpg)
+![Negative Word Cloud](assets/word_cloud_negative.png)
  
 > Kata dominan negatif: *pengeluaran, iklan, hilang, susah, data, error, laporan, uang*
  
